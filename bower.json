@@ -1,0 +1,11 @@
+{
+  "name": "onepage",
+  "version": "0.0.1",
+  "homepage": "https://github.com/genie88/onepage",
+  "description": "a free html5 page maker",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "velocity": "~1.2.2"
+  }
+}
